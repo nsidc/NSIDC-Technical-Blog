@@ -2,6 +2,7 @@ project:
   type: "website"
 
 website:
+  site-url: "https://nsidc.github.io/NSIDC-Technical-Blog/" 
   title: "NSIDC Technical Blog"
   navbar:
     right:
